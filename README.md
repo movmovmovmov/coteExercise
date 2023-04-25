@@ -1,2 +1,2 @@
 # coteExercise
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+- 주로 프로그래머스의 문제들 풀이
